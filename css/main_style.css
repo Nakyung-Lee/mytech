@@ -26,11 +26,4 @@ background-size : cover;
 .pages .page > h1 {
     position:absolute;top:0;left:0;
 }
-#animate1 {
-    width:300px;
-    height:300px;
-    position:fixed;
-    top:0;
-    right:0;
-    display:none;
-}
+
