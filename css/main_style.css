@@ -3,12 +3,20 @@ body, ul, li {
     padding:0;
     list-style:none;
 }
+.pic{
+  border-radius: 70%;
+  text-align: center;
+  height:150px;
+  width: 150px;
+  margin: 100px 20px 10px 20px;
+  transform: translate(0px,-70px);  
+}
 .pages .page {
     position:relative;
     height:100vh;
 }
 .page-1{
-    <img src="img/나.jpg" alt="나">
+    
 }
 .page-2{
     background-image: url('https://user-images.githubusercontent.com/68135400/102639757-d9389600-419c-11eb-80f9-a93c027dbbb5.png');
