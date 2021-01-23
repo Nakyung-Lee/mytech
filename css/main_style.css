@@ -3,6 +3,32 @@ body, ul, li {
     padding:0;
     list-style:none;
 }
+.menu_a{
+    text-decoration: none;
+    color:white;
+}
+.menu{
+    align-items: center;
+    background-color: pink;
+    height:45px;
+}
+.menu ul{
+    width : 1000px;
+    margin : auto;
+}
+.menu_list{
+    font-size : 15px;
+    width : 1000px;
+    margin:auto;
+    display:flex;
+    list-style:none;
+    height:45px;
+}
+.menu_list li{
+    text-align: center;
+    width:150px;
+    padding:12.5px 30px;
+}
 .pic{
   border-radius: 70%;
   height:250px;
@@ -13,25 +39,14 @@ body, ul, li {
     position:relative;
     height:100vh;
 }
-.page-1{
-    width: 1200px;
-    border-radius:20px;
+.box{
+   background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 300px; 
+    border-radius:7%;
     text-align: center;
-    margin: auto;
+    margin: 20px;
+    display: inline-block;
 }
-.page-2{
-    background-image: url('https://user-images.githubusercontent.com/68135400/102639757-d9389600-419c-11eb-80f9-a93c027dbbb5.png');
-    background-size : cover;
-}
-.page-3{
-background-image: url('https://user-images.githubusercontent.com/68135400/102681320-e50b7300-4203-11eb-81bb-d22d0c694206.jpg');
-background-size : cover;
-}
-.page-4{
-background-image: url('https://user-images.githubusercontent.com/68135400/102639855-f79e9180-419c-11eb-8419-d01b2b97ab7f.jpg');
-background-size : cover;
-}
-.pages .page > h1 {
-    position:absolute;top:0;left:0;
-}
+
 
