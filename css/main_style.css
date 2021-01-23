@@ -48,5 +48,7 @@ body, ul, li {
     margin: 20px;
     display: inline-block;
 }
-
-
+.pages{
+  width:1000px;
+  margin: 30px auto 500px auto;
+}
