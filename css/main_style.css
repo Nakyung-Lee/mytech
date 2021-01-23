@@ -13,7 +13,12 @@ body, ul, li {
     position:relative;
     height:100vh;
 }
-
+.page-1{
+    width: 1200px;
+    border-radius:20px;
+    text-align: center;
+    margin: auto;
+}
 .page-2{
     background-image: url('https://user-images.githubusercontent.com/68135400/102639757-d9389600-419c-11eb-80f9-a93c027dbbb5.png');
     background-size : cover;
