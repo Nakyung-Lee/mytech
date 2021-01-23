@@ -29,15 +29,19 @@ body, ul, li {
     width:150px;
     padding:12.5px 30px;
 }
-.pic{
-  border-radius: 70%;
-  height:250px;
-  width: 250px;
-  margin: 15% 5% 5% 5%;
-}
 .pages .page {
     position:relative;
     height:100vh;
+}
+.pic{
+  border-radius: 70%;
+  height:200px;
+  width: 200px;
+  margin: 15% 5% 5% 5%;
+}
+.pages{
+  width:1000px;
+  margin: 30px auto 500px auto;
 }
 .box{
    background-color: rgb(255, 255, 255);
@@ -48,7 +52,4 @@ body, ul, li {
     margin: 20px;
     display: inline-block;
 }
-.pages{
-  width:1000px;
-  margin: 30px auto 500px auto;
-}
+
