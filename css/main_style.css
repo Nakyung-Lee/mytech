@@ -8,8 +8,7 @@ body, ul, li {
     height:100vh;
 }
 .page-1{
-background-image: url('https://user-images.githubusercontent.com/68135400/102639675-bb6b3100-419c-11eb-8d7e-ba4b466239fb.png');
-background-size : cover;
+    <img src="img/나.jpg" alt="나">
 }
 .page-2{
     background-image: url('https://user-images.githubusercontent.com/68135400/102639757-d9389600-419c-11eb-80f9-a93c027dbbb5.png');
