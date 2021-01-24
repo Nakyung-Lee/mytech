@@ -33,13 +33,13 @@ body, ul, li {
   border-radius: 70%;
   height:100px;
   width: 100px;
-  margin: 15% 5% 5% 5%;
+  margin: 5%;
 }
 .pages{
-  border-radius:20px;
+
    text-align: center;
    margin:50px;
-   box-shadow: 0 5px 10px 0 hsla(0,0%,0%,0.2);
+
 }
 .box{
    background-color: rgb(255, 255, 255);
