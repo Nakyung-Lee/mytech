@@ -29,10 +29,6 @@ body, ul, li {
     width:150px;
     padding:12.5px 30px;
 }
-.pages .page {
-    position:relative;
-    height:100vh;
-}
 .pic{
   border-radius: 70%;
   height:100px;
@@ -40,8 +36,10 @@ body, ul, li {
   margin: 15% 5% 5% 5%;
 }
 .pages{
-  width:1000px;
-  margin: 30px auto 500px auto;
+  border-radius:20px;
+   text-align: center;
+   margin:50px;
+   box-shadow: 0 5px 10px 0 hsla(0,0%,0%,0.2);
 }
 .box{
    background-color: rgb(255, 255, 255);
