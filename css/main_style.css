@@ -73,3 +73,8 @@ body, ul, li {
 .profile:hover + .boxx {
         display: block;
 }
+.font1{
+        font-size:20px;
+        margin-top:100px;
+        text-align: center;
+       }
