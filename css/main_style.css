@@ -50,4 +50,34 @@ body, ul, li {
     margin: 20px;
     display: inline-block;
 }
-
+fieldset{
+            border-style:solid;
+            border-color:pink;
+            border-width:0px;
+            border-top-width: 3px;
+            margin : 100px;
+            text-align: center;
+            width:1200px;
+        }
+legend{
+    letter-spacing:0.05em;
+    font-size:30px;
+    text-align: center;
+    display : inline;
+}
+.boxx{
+    position: absolute;
+    display: none;
+    text-align: center;
+    margin: 0;
+    background-color: rgb(255, 255, 255,0.7);
+    width:500px;
+    height:300px;
+ }
+.profile {
+    position: absolute;
+    
+ }
+.profile:hover + .boxx {
+        display: block;
+}
