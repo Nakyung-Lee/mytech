@@ -59,6 +59,13 @@ body, ul, li {
     width:500px;
     height:300px;
  }
+.introduce{
+    width:500px;
+    height:300px;
+    text-align: center;
+    margin: 15px;
+    display:inline-block;
+}
 .profile {
     position: absolute;
     
