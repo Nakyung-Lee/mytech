@@ -3,6 +3,36 @@ body, ul, li {
     padding:0;
     list-style:none;
 }
+#header {
+		text-align: center;
+		font-size: 2em;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-weight: 700;
+		text-transform: uppercase;
+		padding: 2em 0;
+		background: #fff;
+		margin: 0 auto;
+	}
+
+#header .logo {
+		position: relative;
+		text-align: center;
+		border-top: solid 5px #e7eae8;
+		top: 0.65em;
+	}
+
+#header .logo div {
+		background: #fff;
+		position: relative;
+		display: inline-block;
+		padding: 0 1.5em 0 1.5em;
+		top: -0.65em;
+	}
+
+#header .logo p {
+		display: inline;
+		color: #C1CAC5;
+}
 .menu_a{
     text-decoration: none;
     color:white;
@@ -30,40 +60,40 @@ body, ul, li {
     padding:12.5px 30px;
 }
 #banner {
-		position: relative;
-		background-color:#f7f8ea;
-		background-position: top left, top left, center center;
-		background-repeat: repeat, repeat, no-repeat;
-		background-size: auto, auto, cover;
-		z-index: 1;
-		padding: 11em 0;
-	}
+	position: relative;
+	background-color:#f7f8ea;
+	background-position: top left, top left, center center;
+	background-repeat: repeat, repeat, no-repeat;
+	background-size: auto, auto, cover;
+	z-index: 1;
+	padding: 11em 0;
+}
 
-		#banner .content {
-			position: relative;
-			background-color: rgba(21, 28, 23, 0.85);
-			background-position: top left, center center;
-			background-size: auto, 100% 250%;
-			background-repeat: repeat, no-repeat;
-			text-align: center;
-			margin: 0;
-			padding: 4em 0 3.5em 0;
-		}
+#banner .content {
+	position: relative;
+	background-color: rgba(21, 28, 23, 0.85);
+	background-position: top left, center center;
+	background-size: auto, 100% 250%;
+	background-repeat: repeat, no-repeat;
+	text-align: center;
+	margin: 0;
+	padding: 4em 0 3.5em 0;
+}
 
-			#banner .content h2 {
-				color: #fff;
-				font-size: 2.75em;
-				margin: 0 0 0.5em 0;
-			}
+#banner .content h2 {
+	color: #fff;
+	font-size: 2.75em;
+	margin: 0 0 0.5em 0;
+}
 
-			#banner .content p {
-				display: block;
-				font-family: 'Open Sans Condensed', sans-serif;
-				font-weight: 700;
-				text-transform: uppercase;
-				color: #575d59;
-				font-size: 1.35em;
-				margin: 0 0 1.25em 0;
+#banner .content p {
+	display: block;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #575d59;
+	font-size: 1.35em;
+margin: 0 0 1.25em 0;
 			}
 .pic{
   border-radius: 70%;
