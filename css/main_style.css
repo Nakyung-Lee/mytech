@@ -3,36 +3,7 @@ body, ul, li {
     padding:0;
     list-style:none;
 }
-#header {
-		text-align: center;
-		font-size: 2em;
-		font-family: 'Open Sans Condensed', sans-serif;
-		font-weight: 700;
-		text-transform: uppercase;
-		padding: 2em 0;
-		background-color: #FBEFF8;
-		margin: 0 auto;
-	}
 
-#header .logo {
-		position: relative;
-		text-align: center;
-		border-top: solid 5px #e7eae8;
-		top: 0.65em;
-	}
-
-#header .logo div {
-		background-color: #FBEFF8;
-		position: relative;
-		display: inline-block;
-		padding: 0 1.5em 0 1.5em;
-		top: -0.65em;
-	}
-
-#header .logo p {
-		display: inline;
-		color: #C1CAC5;
-}
 .menu_a{
     text-decoration: none;
     color:white;
