@@ -71,8 +71,9 @@ a{
 	margin: 0 0 1.25em 0;
 }
 #banner .content .button {
-		color: #fff;
-		font-size: 1.5em;
+	border: solid 4px #575d59;
+	color: #fff;
+	font-size: 1.2em;
 }
 
 .pic{
