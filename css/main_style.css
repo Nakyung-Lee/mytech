@@ -34,7 +34,10 @@ a{
 	text-decoration: none;
 	color:black;
 }
-
+#pages .box .button1{
+	border: solid 4px #575d59;
+	color: #fff;
+}
 #banner {
 	position: relative;
 	background-color:#f7f8ea;
