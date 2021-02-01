@@ -35,8 +35,7 @@ a{
 	color:black;
 }
 #pages .box .button1{
-	border: solid 4px #575d59;
-	color: #fff;
+	border: solid 4px gray;
 }
 #banner {
 	position: relative;
