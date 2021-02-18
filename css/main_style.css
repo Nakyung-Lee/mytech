@@ -107,12 +107,13 @@ a{
     height:300px;
  }
 .introduce{
-    width:500px;
+    width:1000px;
     height:300px;
     text-align: center;
-    margin: 15px;
+    margin: auto;
     display:inline-block;
 }
+
 .profile {
     position: absolute;
     
