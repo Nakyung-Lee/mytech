@@ -38,9 +38,6 @@ a{
 #banner {
 	position: relative;
 	background-color:#f7f8ea;
-	background-position: top left, top left, center center;
-	background-repeat: repeat, repeat, no-repeat;
-	background-size: auto, auto, cover;
 	padding: 15em 0;
 }
 
