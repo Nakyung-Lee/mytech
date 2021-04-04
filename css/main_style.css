@@ -35,6 +35,8 @@ a{
 	color:black;
 }
 
+#cover { border: 5px solid transparent;}
+
 #banner {
 	position: relative;
 	background-color:#f7f8ea;
